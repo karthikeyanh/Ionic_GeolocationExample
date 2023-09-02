@@ -39,4 +39,6 @@ const App: React.FC = () => (
   </IonApp>
 );
 
+
+
 export default App;
