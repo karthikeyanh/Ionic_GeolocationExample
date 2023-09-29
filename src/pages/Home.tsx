@@ -17,9 +17,9 @@ const Home: React.FC = () => {
           <IonTitle size="large">Geolocation</IonTitle>
         </IonToolbar>
       </IonHeader>
-
+      
       <div className="container">
-        <GeolocationButton/>
+      <GeolocationButton/>
       </div>
     </IonContent>
   </IonPage>
